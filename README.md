@@ -16,11 +16,12 @@ For my initial educational experience, I attended a programming bootcamp called 
 </p>
 <p>Email: pedrogoch55@gmail.com</p>
 
-<h3 align="left">Languages:</h3>
+<h2 align="left">Languages:</h2>
+<p></p>
 <ul>
   <li>Javascript</li>
 </ul>
-<h3>Tools: </h3>
+<h2>Tools: </h2>
 <ul>
   <li>CSS</li>
   <li>HTML</li>
@@ -31,7 +32,7 @@ For my initial educational experience, I attended a programming bootcamp called 
   <li>PostgreSQL</li>
 </ul>
 
-<h3>Learning:</h3>
+<h2>Learning:</h2>
 <ul>
   <li>Typescript</li>
   <li>React-Native</li>
