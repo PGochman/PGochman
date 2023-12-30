@@ -36,4 +36,5 @@ For my initial educational experience, I attended a programming bootcamp called 
 <ul>
   <li>Typescript</li>
   <li>React-Native</li>
+  <li>Astro</li>
 </ul>
