@@ -15,6 +15,9 @@ For my initial educational experience, I attended a programming bootcamp called 
 <a href="https://linkedin.com/in/pedro-gochman" target="blank">Linkedin profile</a>
 </p>
 <p>Email: pedrogoch55@gmail.com</p>
+<p align="left">
+<a href="https://pedrogochman.netlify.app/" target="blank">Portfolio</a>
+</p>
 
 <h2 align="left">Languages:</h2>
 <p></p>
