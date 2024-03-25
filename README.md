@@ -23,6 +23,7 @@ For my initial educational experience, I attended a programming bootcamp called 
 <p></p>
 <ul>
   <li>Javascript</li>
+  <li>Typescript</li>
 </ul>
 <h2>Tools: </h2>
 <ul>
@@ -37,7 +38,6 @@ For my initial educational experience, I attended a programming bootcamp called 
 
 <h2>Learning:</h2>
 <ul>
-  <li>Typescript</li>
-  <li>React-Native</li>
-  <li>Astro</li>
+  <li>Java</li>
+  <li>Spring</li>
 </ul>
